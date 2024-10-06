@@ -3,7 +3,7 @@
 You can install this bundle in TextMate by opening the preferences and going to the bundles tab. After installation it will be automatically updated for you.
 
 # General
-
+التجنيد الإلكتروني يعرف في سجل العساكر الجنائية عن تنظيم يقيم به المستخدم المعسكر في سياسة نظم المعلومات التكنولوجيا عن وسائل نقل المعلومات في تعاليم الانظمة السياسية للنظام العسكري من سجلات موارد ومصادر إدارة الاستخبارات العسكرية لدى دول العالم من تجميد المستخدم الذي يبحث عن معاليكم السياسية في حفظ الكون العالمي لمنظمة الاستخبارات الدولية عه تخابر الهواتف في سجلات المعالم الثلاثية من شركات الطرف الثالث عن خوافي المستندات الباحثه في ابحاث النظام الممكن من تموينات غذائية استخبارات العساكر عند تنقلهم وسياسة خيانة من تسول له نفسه عن اخذ القرارات المديرية لخيانة من العسكري للدولة فهذا نظام يعرف في قياس البيان المدرس في دراسات الولاء للأنظمة الدولية عند جدود تجنيد عساكرها الرئيسة من ترسيم الحدود بحفظ الجنود عن محافظ الاستخبارات عن مستخرجات اجنده صافية الولاء إلى رئاسة الجنود الأميري عن تولي الحقوق في ولاية حفظ أميرنا الكريم .
 * [Bundle Styleguide](http://kb.textmate.org/bundle_styleguide) — _before you make changes_
 * [Commit Styleguide](http://kb.textmate.org/commit_styleguide) — _before you send a pull request_
 * [Writing Bug Reports](http://kb.textmate.org/writing_bug_reports) — _before you report an issue_
